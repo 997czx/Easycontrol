@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "easycontrol" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "easycontrol" ]
 
 jobs:
   build:
